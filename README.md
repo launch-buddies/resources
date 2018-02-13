@@ -9,3 +9,4 @@
 - [Kaminari](https://github.com/kaminari/kaminari)
 - [AASM](https://github.com/aasm/aasm)
 - [Plutus](https://github.com/mbulat/plutus)
+- [Fast JSON Api](https://github.com/Netflix/fast_jsonapi)
